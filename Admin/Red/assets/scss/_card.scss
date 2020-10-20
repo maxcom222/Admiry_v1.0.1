@@ -1,0 +1,26 @@
+/* ==============
+  Card
+===================*/
+.card {
+  border: 1px solid rgba($muted,0.12);
+}
+.card-primary {
+  background-color: $primary;
+  border-color: $primary;
+}
+.card-success {
+  background-color: $success;
+  border-color: $success;
+}
+.card-info {
+  background-color: $info;
+  border-color: $info;
+}
+.card-warning {
+  background-color: $warning;
+  border-color: $warning;
+}
+.card-danger {
+  background-color: $danger;
+  border-color: $danger;
+}
